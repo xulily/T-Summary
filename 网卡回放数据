@@ -1,0 +1,1 @@
+nohup tcpreplay -i smartprobe2 -l0 -M1 /opt/pcap/tap_1_znap.pcap >/dev/null 2>&1 &
